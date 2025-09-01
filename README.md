@@ -1,2 +1,2 @@
 # Amazon-DSA-plan
-DSA questions
+DSA question
